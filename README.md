@@ -1,0 +1,4 @@
+- alx high level programming 
+- it's all about the python programming language
+- all tasks will be done and posted in this repo
+- ...
